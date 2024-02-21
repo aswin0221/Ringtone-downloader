@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "686588327028",
+    "project_id": "ringtone-downloader-24e04",
+    "storage_bucket": "ringtone-downloader-24e04.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686588327028:android:c4e9cc262057c634d54d21",
+        "android_client_info": {
+          "package_name": "com.example.ringtone_downloder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBkowHqZknF_5e0jv0au8IWiNCQeEHtBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686588327028:android:a0ca7ad734b54f46d54d21",
+        "android_client_info": {
+          "package_name": "com.example.ringtone_serverapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBkowHqZknF_5e0jv0au8IWiNCQeEHtBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
